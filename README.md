@@ -4,10 +4,12 @@ Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
 
 <ol>
 <li>
-  Clone repo from git perspective > Git repositories view
+  Clone repository
+  <div>Clone repository from git perspective > Git repositories view</div>
   </li>
 
-<li>Import as General project from Java ee > Project Explorer view
+<li>Import project
+  <div>Import as General project from Java ee > Project Explorer view</div>
 </li>
 
 <li>Create a tomcat server
