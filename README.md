@@ -1,4 +1,6 @@
-Prerequisites : Eclipse photon, jdk, Tomcat
+<h1>Example of a simple web application secured with spring security</h1>
+
+Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
 
 1)clone repo from git perspective > Git repositories view
 2)import as General project from Java ee > Project Explorer view
