@@ -35,9 +35,9 @@ Server view > click [Start server]
 </li>
 
 <li>Access the application
-<p>http://localhost:8080/springSecurityExample/admin (admin/123456)</p>
-<p>http://localhost:8080/springSecurityExample/dba (dba/123456)</p>
-  <p>http://localhost:8080/springSecurityExample/welcome (mkyong/123456)</p>
+<div>http://localhost:8080/springSecurityExample/admin (admin/123456)</div>
+<div>http://localhost:8080/springSecurityExample/dba (dba/123456)</div>
+<div>http://localhost:8080/springSecurityExample/welcome (mkyong/123456)</div>
 </li>
 
 </ol>
