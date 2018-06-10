@@ -25,6 +25,7 @@ Server view > right-click on server > Add and remove... > Add all>> > click [Fin
 Server view > click [Start server]
 
 9) Access the application
+
 access http://localhost:8080/springSecurityExample/admin (admin/123456)
 access http://localhost:8080/springSecurityExample/dba (dba/123456)
 access http://localhost:8080/springSecurityExample/welcome (mkyong/123456)
