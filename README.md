@@ -25,7 +25,7 @@ Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
 </li>
 
 <li>Make eclipse run over jdk
-<div>Window > Prefereces > Installed JREs, click [Add], click [Next], set "JRE home" to the path to your jdk, click finish, tick the new jdk, click [Apply and close]</div>
+<div>Window > Preferences > Installed JREs, click [Add], click [Next], set "JRE home" to the path to your jdk, click finish, tick the new jdk, click [Apply and close]</div>
 </li>
 
 <li>Add project to tomcat server
