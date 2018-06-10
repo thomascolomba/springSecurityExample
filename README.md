@@ -11,27 +11,27 @@ Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
 </li>
 
 <li>Create a tomcat server
-Server view > "No servers are available. Click this link to create a new server..." > Apache > Tomcat 8.5 Server, click [Next] > [Browse], select your tomcat installation, click [Finish]
+<div>Server view > "No servers are available. Click this link to create a new server..." > Apache > Tomcat 8.5 Server, click [Next] > [Browse], select your tomcat installation, click [Finish]</div>
 </li>
 
 <li>Convert eclipse project to Maven nature
-Right-clic on project > Configure > Convert to maven project
+<div>Right-clic on project > Configure > Convert to maven project</div>
 </li>
 
 <li>Add a targeted runtime
-Right-clic on project > Properties > Targeted Runtimes > tick the Apache Tomcat server then click [Apply and close]
+<div>Right-clic on project > Properties > Targeted Runtimes > tick the Apache Tomcat server then click [Apply and close]</div>
 </li>
 
 <li>Make eclipse run over jdk
-Window > Prefereces > Installed JREs, click [Add], click [Next], set "JRE home" to the path to your jdk, click finish, tick the new jdk, click [Apply and close]
+<div>Window > Prefereces > Installed JREs, click [Add], click [Next], set "JRE home" to the path to your jdk, click finish, tick the new jdk, click [Apply and close]</div>
 </li>
 
 <li>Add project to tomcat server
-Server view > right-click on server > Add and remove... > Add all>> > click [Finish]
+<div>Server view > right-click on server > Add and remove... > Add all>> > click [Finish]</div>
 </li>
 
 <li>Start server
-Server view > click [Start server]
+<div>Server view > click [Start server]</div>
 </li>
 
 <li>Access the application
