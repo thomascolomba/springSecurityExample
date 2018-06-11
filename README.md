@@ -10,8 +10,17 @@ Steps to get the project running and ready to debug
 <ol>
 <li>
   Clone repository
-  <div>Clone repository from git perspective > Git repositories view</div>
-  </li>
+  <div>In your browser, in this page, click [Clone or download] and copy the value displayed.
+  <div>In Eclipse, click [Window] dropdown in the menu bar</div>
+  <div>Open 'Perspective' nested dropdown in the dropdown</div>
+  <div>Open 'Open perspective' nested dropdown in the dropdown</div>
+  <div>Click 'Other...' entry in the dropdown</div>
+  <div>Select 'Git' entry, then click [Open]</div>
+  <div>Right-click in the 'Git repositories' panel, then click 'Paste Repository Path or URI'</div>
+  <div>Click [Next]</div>
+  <div>Click [Next] again</div>
+  <div>In Directory field, select the directory in which you want to save the source code, then click [Finish]</div>
+</li>
 
 <li>Import project
   <div>Go to java ee perspective</div>
@@ -25,27 +34,27 @@ Steps to get the project running and ready to debug
 </li>
 
 <li>Create a tomcat server
-<div>Server view > "No servers are available. Click this link to create a new server..." > Apache > Tomcat 8.5 Server, click [Next] > [Browse], select your tomcat installation, click [Finish]</div>
+<div>In server view, click "No servers are available. Click this link to create a new server..." > Apache > Tomcat 8.5 Server, click [Next] > [Browse], select your tomcat installation, click [Finish]</div>
 </li>
 
 <li>Convert eclipse project to Maven nature
-<div>Right-clic on project > Configure > Convert to maven project</div>
+<div>In 'Project Explorer' panel, right-clic on project > Configure > Convert to maven project</div>
 </li>
 
 <li>Add a targeted runtime
-<div>Right-clic on project > Properties > Targeted Runtimes > tick the Apache Tomcat server then click [Apply and close]</div>
+<div>In 'Project Explorer' panel, right-clic on project > Properties > Targeted Runtimes > tick the Apache Tomcat server entry then click [Apply and close]</div>
 </li>
 
 <li>Make eclipse run over jdk
-<div>Window > Preferences > Installed JREs, click [Add], click [Next], set "JRE home" to the path to your jdk, click finish, tick the new jdk, click [Apply and close]</div>
+<div>In the nmenu bar, click Window > Preferences > Installed JREs, click [Add], click [Next], set "JRE home" to the path to your jdk, click finish, tick the new jdk, click [Apply and close]</div>
 </li>
 
 <li>Add project to tomcat server
-<div>Server view > right-click on server > Add and remove... > Add all>> > click [Finish]</div>
+<div>In Server view, right-click on server > Add and remove... > [Add all>>] > click [Finish]</div>
 </li>
 
 <li>Start server
-<div>Server view > click [Start server]</div>
+<div>In Server view, click the green button to start the server</div>
 </li>
 
 <li>Access the application
