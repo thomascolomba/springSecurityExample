@@ -39,13 +39,13 @@ Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
 <li>Access the application
 <div>http://localhost:8080/springSecurityExample/admin</div>
 <div style="margin-bottom:8px;">username/password : admin/123456</div>
-<div><!--empty line--></div>
+<div>&nbsp;</div>
 <div>http://localhost:8080/springSecurityExample/dba</div>
 <div style="margin-bottom:8px;">username/password : dba/123456</div>
-<div><!--empty line--></div>
+<div>&nbsp;</div>
 <div>http://localhost:8080/springSecurityExample/welcome</div>
 <div style="margin-bottom:8px;">username/password :  mkyong/123456</div>
-<div><!--empty line--></div>
+<div>&nbsp;</div>
 </li>
 
 </ol>
