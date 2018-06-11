@@ -1,7 +1,12 @@
 <h1>Example of a simple web application secured with spring security</h1>
 
-Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
+Prerequisites to run and debug :
+- Eclipse photon for java ee
+- any jdk (I use version 1.8)
+- any tomcat version (I use tomcat 8.5)
+- maven 
 
+Steps to get the project running and ready to debug
 <ol>
 <li>
   Clone repository
