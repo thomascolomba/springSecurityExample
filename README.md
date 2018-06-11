@@ -14,7 +14,14 @@ Steps to get the project running and ready to debug
   </li>
 
 <li>Import project
-  <div>Import as General project from Java ee > Project Explorer view</div>
+  <div>Go to java ee perspective</div>
+  <div>Click [File] dropdown in menu bar</div>
+  <div>Click 'Import...' entry in dropdown</div>
+  <div>Select Git > Projects from Git, then click [Next]</div>
+  <div>Select the entry 'Existing local repository', then click [Next]</div>
+  <div>Select the repository you cloned in the previous step, then click [Next]</div>
+  <div>Tick radio button 'Import as general project', then click [Next]</div>
+  <div>Click [Finish]</div>
 </li>
 
 <li>Create a tomcat server
