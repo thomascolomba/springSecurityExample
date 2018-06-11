@@ -37,9 +37,12 @@ Prerequisites to run and debug : Eclipse photon, jdk, Tomcat
 </li>
 
 <li>Access the application
-<div>http://localhost:8080/springSecurityExample/admin (admin/123456)</div>
-<div>http://localhost:8080/springSecurityExample/dba (dba/123456)</div>
-<div>http://localhost:8080/springSecurityExample/welcome (mkyong/123456)</div>
+<div>http://localhost:8080/springSecurityExample/admin</div>
+<div>username/password : admin/123456</div>
+<div>http://localhost:8080/springSecurityExample/dba</div>
+<div>username/password : dba/123456</div>
+<div>http://localhost:8080/springSecurityExample/welcome</div>
+<div>username/password :  mkyong/123456</div>
 </li>
 
 </ol>
